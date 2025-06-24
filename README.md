@@ -24,7 +24,20 @@ Aprendi como criar uma conta Microsoft e ativar uma assinatura gratuita do Azure
 ### 6. 📂 Microsoft Azure: Localizando Serviços por Categoria  
 Explorei a interface do portal Azure e aprendi a localizar e acessar serviços categorizados, como computação, redes, armazenamento, banco de dados e segurança. Entendi como navegar de forma eficiente para iniciar a criação de recursos e soluções.
 
----
+### 7. 🌟 Benefícios da Nuvem  
+Aprofundei meu entendimento sobre os principais benefícios da computação em nuvem, como **redução de custos operacionais**, **escalabilidade sob demanda**, **elasticidade**, **acesso global**, **segurança aprimorada** e **rapidez na implementação de soluções**. Compreendi como a nuvem transforma o modelo tradicional de TI, permitindo que empresas inovem com mais agilidade e eficiência.
+
+### 8. 🖥️ Criação de Máquinas Virtuais no Azure  
+Aprendi a criar máquinas virtuais (VMs) na plataforma Azure, configurando recursos como **sistema operacional**, **tamanho da VM**, **grupo de recursos**, **rede virtual** e **disco gerenciado**. Explorei a importância das VMs para simular ambientes de trabalho, hospedar aplicações e realizar testes de forma flexível e escalável.
+
+### 9. 🧰 Tipos de Serviços de Nuvem (IaaS, PaaS, SaaS)  
+Reforcei os conceitos dos **três principais modelos de serviço em nuvem**:  
+- **IaaS (Infrastructure as a Service)**: fornecimento de infraestrutura de TI sob demanda, como servidores e redes virtuais.  
+- **PaaS (Platform as a Service)**: ambiente completo para desenvolvimento e implantação de aplicações, sem se preocupar com a gestão da infraestrutura.  
+- **SaaS (Software as a Service)**: acesso a softwares prontos, via internet, como e-mail, CRMs e ferramentas de colaboração.  
+
+Esses modelos oferecem diferentes níveis de controle, flexibilidade e responsabilidade, dependendo das necessidades do usuário ou da organização.
+
 
 📚 *Este documento será atualizado conforme eu avançar no bootcamp. Fique à vontade para acompanhar meu progresso!*
 
