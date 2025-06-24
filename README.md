@@ -38,6 +38,14 @@ Reforcei os conceitos dos **três principais modelos de serviço em nuvem**:
 
 Esses modelos oferecem diferentes níveis de controle, flexibilidade e responsabilidade, dependendo das necessidades do usuário ou da organização.
 
+### 10. 🗄️ Configurando uma Instância de Banco de Dados no Azure  
+Aprendi como criar e configurar uma instância de banco de dados no Azure por meio do serviço **Azure SQL Database**. O processo envolveu:  
+- Definir o nome do servidor e do banco de dados  
+- Escolher o nível de desempenho e modelo de compra (DTU ou vCore)  
+- Configurar as regras de firewall para permitir conexões externas  
+- Selecionar opções de backup, segurança e monitoramento  
+
+Essa prática demonstrou como o Azure facilita a criação de bancos de dados gerenciados, com alta disponibilidade, escalabilidade e segurança integradas — tudo isso sem a necessidade de gerenciar a infraestrutura física.
 
 📚 *Este documento será atualizado conforme eu avançar no bootcamp. Fique à vontade para acompanhar meu progresso!*
 
